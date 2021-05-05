@@ -7,4 +7,3 @@ Kai Westwell: s1727718@ed.ac.uk
 # Contents
 - Data and Code
 - Outputs
-- Images
